@@ -33,12 +33,17 @@ These are the notes from a meeting with the frontend developer that describe wha
 - lastName
 - password
 
-#### Orders
+#### Order
 - id
 - id of each product in the order
 - quantity of each product in the order
 - user_id
 - status of order (active or complete)
+
+#### Order Product
+- order_id
+- product_id
+- quanitity
 
 ## Database Tables
 #### Users Table
